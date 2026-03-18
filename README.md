@@ -87,7 +87,7 @@ With the rapid spread of misinformation online, detecting fake news has become a
 3. Run all cells sequentially
 4. View accuracy and classification report at the end
 
-[![Open In Colab](https://colab.research.google.com/drive/1htl07oJyUHoWi1QSa0XrwfNzOZJZSRdG?usp=sharing)
+[[Open In Colab](https://colab.research.google.com/drive/1htl07oJyUHoWi1QSa0XrwfNzOZJZSRdG?usp=sharing)
 
 ---
 
